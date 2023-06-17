@@ -2942,6 +2942,7 @@ $parcel$ReactRefreshHelpers$c1db.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
@@ -3070,12 +3071,7 @@ const App = ()=>{
 };
 _s(App, "u3Qogb8wU1O0+dcySepyY9TW22Y=");
 _c = App;
-const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
-    fileName: "App.js",
-    lineNumber: 90,
-    columnNumber: 13
-}, undefined));
+exports.default = App;
 var _c;
 $RefreshReg$(_c, "App");
 

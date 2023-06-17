@@ -2,7 +2,7 @@
   "name": "react-contest-1",
   "version": "1.0.0",
   "description": "My first React Contest",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
    
     "start": "parcel index.html",

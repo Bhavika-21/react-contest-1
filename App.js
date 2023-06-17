@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import React,{useState} from "react";
-import './App.css'
+import './App.css';
 
 const App = () => {
 
@@ -84,7 +84,4 @@ const App = () => {
     </div>
   )
 }
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-
-root.render(<App/>);
+export default App;
