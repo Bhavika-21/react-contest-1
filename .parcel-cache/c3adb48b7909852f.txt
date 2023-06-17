@@ -107,7 +107,7 @@
 94C:\Users\User\Desktop\react-contest-1\node_modules\caniuse-lite\data\features\css-gradients.js133314958240993887 0
 92C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133314957847117034 0
 55C:\Users\User\Desktop\react-contest-1\package-lock.json133314960663121472 0
-50C:\Users\User\Desktop\react-contest-1\package.json133314980686732715 0
+50C:\Users\User\Desktop\react-contest-1\package.json133314981978470877 0
 81C:\Users\User\Desktop\react-contest-1\node_modules\node-addon-api\tools\README.md133314958048714418 0
 81C:\Users\User\Desktop\react-contest-1\node_modules\regenerator-runtime\runtime.js133314957864602888 0
 61C:\Users\User\Desktop\react-contest-1\node_modules\domhandler133314957984916871 1
