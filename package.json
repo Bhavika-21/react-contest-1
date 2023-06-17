@@ -1,0 +1,30 @@
+{
+  "name": "react-contest-1",
+  "version": "1.0.0",
+  "description": "My first React Contest",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel builed index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavika-21/react-contest-1.git"
+  },
+  "author": "Bhavika Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavika-21/react-contest-1/issues"
+  },
+  "homepage": "https://github.com/Bhavika-21/react-contest-1#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
