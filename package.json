@@ -4,7 +4,6 @@
   "description": "My first React Contest",
   "main": "index.js",
   "scripts": {
-   
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "predeploy": "npm run build",
