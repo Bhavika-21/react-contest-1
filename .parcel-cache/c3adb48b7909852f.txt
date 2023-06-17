@@ -40,7 +40,7 @@
 112C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.js133314957984837320 0
 88C:\Users\User\Desktop\react-contest-1\node_modules\caniuse-lite\data\features\streams.js133314958417024327 0
 108C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\package.json133314958221966697 0
-42C:\Users\User\Desktop\react-contest-1\dist133314978737198622 1
+42C:\Users\User\Desktop\react-contest-1\dist133314980698272787 1
 59C:\Users\User\Desktop\react-contest-1\node_modules\escalade133314957991952195 1
 101C:\Users\User\Desktop\react-contest-1\node_modules\caniuse-lite\data\features\intersectionobserver.js133314958293784375 0
 88C:\Users\User\Desktop\react-contest-1\node_modules\abortcontroller-polyfill\src\utils.js133314958014737029 0
@@ -107,7 +107,7 @@
 94C:\Users\User\Desktop\react-contest-1\node_modules\caniuse-lite\data\features\css-gradients.js133314958240993887 0
 92C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133314957847117034 0
 55C:\Users\User\Desktop\react-contest-1\package-lock.json133314960663121472 0
-50C:\Users\User\Desktop\react-contest-1\package.json133314974669453986 0
+50C:\Users\User\Desktop\react-contest-1\package.json133314980686732715 0
 81C:\Users\User\Desktop\react-contest-1\node_modules\node-addon-api\tools\README.md133314958048714418 0
 81C:\Users\User\Desktop\react-contest-1\node_modules\regenerator-runtime\runtime.js133314957864602888 0
 61C:\Users\User\Desktop\react-contest-1\node_modules\domhandler133314957984916871 1
@@ -1296,7 +1296,7 @@
 84C:\Users\User\Desktop\react-contest-1\node_modules\caniuse-lite\data\features\aac.js133314957861085218 0
 82C:\Users\User\Desktop\react-contest-1\node_modules\svgo\plugins\convertPathData.js133314958046955584 0
 78C:\Users\User\Desktop\react-contest-1\node_modules\fs-extra\lib\ensure\link.js133314960647156447 0
-61C:\Users\User\Desktop\react-contest-1\dist\index.e6b5c606.css133314978735029122 0
+61C:\Users\User\Desktop\react-contest-1\dist\index.e6b5c606.css133314980696773573 0
 105C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133314958076811643 0
 73C:\Users\User\Desktop\react-contest-1\node_modules\source-map\lib\util.js133314958021452565 0
 71C:\Users\User\Desktop\react-contest-1\node_modules\globals\package.json133314957889146550 0
@@ -4997,7 +4997,7 @@
 92C:\Users\User\Desktop\react-contest-1\node_modules\@swc\helpers\_\_class_private_method_init133314958254361382 1
 105C:\Users\User\Desktop\react-contest-1\node_modules\@swc\helpers\_\_class_static_private_field_destructure133314958254441335 1
 100C:\Users\User\Desktop\react-contest-1\node_modules\@swc\helpers\_\_class_static_private_field_update133314958254601201 1
-64C:\Users\User\Desktop\react-contest-1\dist\index.3d214d75.js.map133314978737198622 0
+64C:\Users\User\Desktop\react-contest-1\dist\index.3d214d75.js.map133314980698272787 0
 76C:\Users\User\Desktop\react-contest-1\node_modules\@swc\helpers\_\_construct133314958254681173 1
 84C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\runtime-react-refresh\src133314957864602888 1
 79C:\Users\User\Desktop\react-contest-1\node_modules\@swc\helpers\_\_create_class133314958254761096 1
@@ -5606,7 +5606,7 @@
 83C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\LICENSE133314957794354333 0
 79C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\src133314957988434538 1
 95C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\src\dependencies.js133314957882031283 0
-60C:\Users\User\Desktop\react-contest-1\dist\index.3d214d75.js133314978737053469 0
+60C:\Users\User\Desktop\react-contest-1\dist\index.3d214d75.js133314980697972964 0
 98C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133314957915289478 0
 95C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\lib\dependencies.js133314957846557396 0
 98C:\Users\User\Desktop\react-contest-1\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133314957891624902 0
@@ -6495,6 +6495,6 @@
 64C:\Users\User\Desktop\react-contest-1\node_modules\.bin\svgo.ps1133314958454850347 0
 78C:\Users\User\Desktop\react-contest-1\node_modules\.bin\update-browserslist-db133314958454930282 0
 64C:\Users\User\Desktop\react-contest-1\dist\index.7826abd7.js.map133314977827204941 0
-65C:\Users\User\Desktop\react-contest-1\dist\index.e6b5c606.css.map133314978735109069 0
+65C:\Users\User\Desktop\react-contest-1\dist\index.e6b5c606.css.map133314980696973481 0
 70C:\Users\User\Desktop\react-contest-1\dist\react-contest-1.3464ddca.js133314936599407188 0
 74C:\Users\User\Desktop\react-contest-1\dist\react-contest-1.3464ddca.js.map133314936599893091 0
